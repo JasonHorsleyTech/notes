@@ -16,7 +16,8 @@ xdebug.remote_port = 9000
 
 > sudo system apache2 restart
 
+* Add Vdebug to the plugin list, or just copy your vimrc from git and pluginstall
 * Open the vim script in question, F5, vim is waiting for a connection, refresh .php page
 
 
-All that stuff about DBGp plugin and python signs... This works fine with a regular apt-get install vim build
+This works fine with a regular apt-get install vim build
